@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/sanjaim25/solution_LC/tree/master/0205-isomorphic-strings) |
+| [1748-sum-of-unique-elements](https://github.com/sanjaim25/solution_LC/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjaim25/solution_LC/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/sanjaim25/solution_LC/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/sanjaim25/solution_LC/tree/master/1748-sum-of-unique-elements) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanjaim25/solution_LC/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sanjaim25/solution_LC/tree/master/0292-nim-game) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/sanjaim25/solution_LC/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
