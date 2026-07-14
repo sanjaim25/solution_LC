@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sanjaim25/solution_LC/tree/master/1748-sum-of-unique-elements) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanjaim25/solution_LC/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/sanjaim25/solution_LC/tree/master/2942-find-words-containing-character) |
+| [3024-type-of-triangle](https://github.com/sanjaim25/solution_LC/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sanjaim25/solution_LC/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sanjaim25/solution_LC/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sanjaim25/solution_LC/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/sanjaim25/solution_LC/tree/master/3024-type-of-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/sanjaim25/solution_LC/tree/master/1748-sum-of-unique-elements) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/sanjaim25/solution_LC/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
