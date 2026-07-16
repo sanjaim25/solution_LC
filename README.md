@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/sanjaim25/solution_LC/tree/master/0205-isomorphic-strings) |
+| [0412-fizz-buzz](https://github.com/sanjaim25/solution_LC/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/sanjaim25/solution_LC/tree/master/0709-to-lower-case) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanjaim25/solution_LC/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/sanjaim25/solution_LC/tree/master/2942-find-words-containing-character) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sanjaim25/solution_LC/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/sanjaim25/solution_LC/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sanjaim25/solution_LC/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sanjaim25/solution_LC/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sanjaim25/solution_LC/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/sanjaim25/solution_LC/tree/master/3024-type-of-triangle) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sanjaim25/solution_LC/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
