@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjaim25/solution_LC/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sanjaim25/solution_LC/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1672-richest-customer-wealth](https://github.com/sanjaim25/solution_LC/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/sanjaim25/solution_LC/tree/master/1748-sum-of-unique-elements) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanjaim25/solution_LC/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/sanjaim25/solution_LC/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/sanjaim25/solution_LC/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sanjaim25/solution_LC/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sanjaim25/solution_LC/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sanjaim25/solution_LC/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sanjaim25/solution_LC/tree/master/2894-divisible-and-non-divisible-sums-difference) |
