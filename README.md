@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sanjaim25/solution_LC/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sanjaim25/solution_LC/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sanjaim25/solution_LC/tree/master/0217-contains-duplicate) |
 | [1748-sum-of-unique-elements](https://github.com/sanjaim25/solution_LC/tree/master/1748-sum-of-unique-elements) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjaim25/solution_LC/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/sanjaim25/solution_LC/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjaim25/solution_LC/tree/master/0217-contains-duplicate) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sanjaim25/solution_LC/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1672-richest-customer-wealth](https://github.com/sanjaim25/solution_LC/tree/master/1672-richest-customer-wealth) |
@@ -58,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sanjaim25/solution_LC/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/sanjaim25/solution_LC/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sanjaim25/solution_LC/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjaim25/solution_LC/tree/master/0217-contains-duplicate) |
 | [3024-type-of-triangle](https://github.com/sanjaim25/solution_LC/tree/master/3024-type-of-triangle) |
 ## Simulation
@@ -72,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/sanjaim25/solution_LC/tree/master/1486-xor-operation-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanjaim25/solution_LC/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
