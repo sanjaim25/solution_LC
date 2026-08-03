@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanjaim25/solution_LC/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjaim25/solution_LC/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/sanjaim25/solution_LC/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjaim25/solution_LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sanjaim25/solution_LC/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sanjaim25/solution_LC/tree/master/0189-rotate-array) |
@@ -92,9 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sanjaim25/solution_LC/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjaim25/solution_LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanjaim25/solution_LC/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sanjaim25/solution_LC/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
