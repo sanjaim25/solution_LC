@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sanjaim25/solution_LC/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/sanjaim25/solution_LC/tree/master/0482-license-key-formatting) |
 | [0709-to-lower-case](https://github.com/sanjaim25/solution_LC/tree/master/0709-to-lower-case) |
+| [0926-flip-string-to-monotone-increasing](https://github.com/sanjaim25/solution_LC/tree/master/0926-flip-string-to-monotone-increasing) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanjaim25/solution_LC/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/sanjaim25/solution_LC/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/sanjaim25/solution_LC/tree/master/3019-number-of-changing-keys) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/sanjaim25/solution_LC/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjaim25/solution_LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0926-flip-string-to-monotone-increasing](https://github.com/sanjaim25/solution_LC/tree/master/0926-flip-string-to-monotone-increasing) |
 ## Trie
 |  |
 | ------- |
