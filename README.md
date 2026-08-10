@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sanjaim25/solution_LC/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sanjaim25/solution_LC/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sanjaim25/solution_LC/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/sanjaim25/solution_LC/tree/master/0238-product-of-array-except-self) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sanjaim25/solution_LC/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0665-non-decreasing-array](https://github.com/sanjaim25/solution_LC/tree/master/0665-non-decreasing-array) |
 | [1672-richest-customer-wealth](https://github.com/sanjaim25/solution_LC/tree/master/1672-richest-customer-wealth) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjaim25/solution_LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sanjaim25/solution_LC/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
