@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanjaim25/solution_LC/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/sanjaim25/solution_LC/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/sanjaim25/solution_LC/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sanjaim25/solution_LC/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/sanjaim25/solution_LC/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/sanjaim25/solution_LC/tree/master/0482-license-key-formatting) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjaim25/solution_LC/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sanjaim25/solution_LC/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjaim25/solution_LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sanjaim25/solution_LC/tree/master/0189-rotate-array) |
 ## Math
