@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sanjaim25/solution_LC/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sanjaim25/solution_LC/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/sanjaim25/solution_LC/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/sanjaim25/solution_LC/tree/master/0412-fizz-buzz) |
