@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sanjaim25/solution_LC/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjaim25/solution_LC/tree/master/0242-valid-anagram) |
 | [1748-sum-of-unique-elements](https://github.com/sanjaim25/solution_LC/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sanjaim25/solution_LC/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/sanjaim25/solution_LC/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/sanjaim25/solution_LC/tree/master/0482-license-key-formatting) |
 | [0709-to-lower-case](https://github.com/sanjaim25/solution_LC/tree/master/0709-to-lower-case) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/sanjaim25/solution_LC/tree/master/0926-flip-string-to-monotone-increasing) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sanjaim25/solution_LC/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanjaim25/solution_LC/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/sanjaim25/solution_LC/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/sanjaim25/solution_LC/tree/master/3019-number-of-changing-keys) |
