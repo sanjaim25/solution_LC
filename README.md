@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sanjaim25/solution_LC/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sanjaim25/solution_LC/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sanjaim25/solution_LC/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/sanjaim25/solution_LC/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sanjaim25/solution_LC/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/sanjaim25/solution_LC/tree/master/0482-license-key-formatting) |
 | [0709-to-lower-case](https://github.com/sanjaim25/solution_LC/tree/master/0709-to-lower-case) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sanjaim25/solution_LC/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjaim25/solution_LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sanjaim25/solution_LC/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/sanjaim25/solution_LC/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/sanjaim25/solution_LC/tree/master/1768-merge-strings-alternately) |
 | [2540-minimum-common-value](https://github.com/sanjaim25/solution_LC/tree/master/2540-minimum-common-value) |
 ## Math
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/sanjaim25/solution_LC/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjaim25/solution_LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/sanjaim25/solution_LC/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/sanjaim25/solution_LC/tree/master/0509-fibonacci-number) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/sanjaim25/solution_LC/tree/master/0926-flip-string-to-monotone-increasing) |
 ## Trie
