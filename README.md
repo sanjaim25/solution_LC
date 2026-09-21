@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sanjaim25/solution_LC/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sanjaim25/solution_LC/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/sanjaim25/solution_LC/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/sanjaim25/solution_LC/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sanjaim25/solution_LC/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0665-non-decreasing-array](https://github.com/sanjaim25/solution_LC/tree/master/0665-non-decreasing-array) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/sanjaim25/solution_LC/tree/master/0915-partition-array-into-disjoint-intervals) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sanjaim25/solution_LC/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjaim25/solution_LC/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjaim25/solution_LC/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/sanjaim25/solution_LC/tree/master/0414-third-maximum-number) |
 | [3024-type-of-triangle](https://github.com/sanjaim25/solution_LC/tree/master/3024-type-of-triangle) |
 ## Simulation
 |  |
