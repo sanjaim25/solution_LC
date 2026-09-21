@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sanjaim25/solution_LC/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/sanjaim25/solution_LC/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sanjaim25/solution_LC/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0485-max-consecutive-ones](https://github.com/sanjaim25/solution_LC/tree/master/0485-max-consecutive-ones) |
 | [0665-non-decreasing-array](https://github.com/sanjaim25/solution_LC/tree/master/0665-non-decreasing-array) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/sanjaim25/solution_LC/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1672-richest-customer-wealth](https://github.com/sanjaim25/solution_LC/tree/master/1672-richest-customer-wealth) |
